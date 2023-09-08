@@ -1,0 +1,16 @@
+lockfileVersion: '6.1'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+dependencies:
+  symbols-coding-test:
+    specifier: ^0.0.1
+    version: 0.0.1
+
+packages:
+
+  /symbols-coding-test@0.0.1:
+    resolution: {integrity: sha512-WtuZbEdeLqqwEHETxVzi8g65Gmo8RAfGEgDwLi+Q2h4lZ5z2om9iyu4WfbJii7QOEpjmZU8rqtsIDWdoFPJSwA==}
+    dev: false
